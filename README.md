@@ -6,6 +6,6 @@
 
 ## Papers
 
-* **[01]Quantum Optimization using Variational Algorithms on Near-Term Quantum Devices** [pdf](./papers/[01]Quantum Optimization using Variational Algorithms on Near-Term Quantum Devices.pdf)
+* **[01]Quantum Optimization using Variational Algorithms on Near-Term Quantum Devices** [pdf](papers/[01]Quantum Optimization using Variational Algorithms on Near-Term Quantum Devices.pdf)
 
-* **[02]Quantum Machine Learning** [pdf](./papers/[02]Quantum Machine Learning)
+* **[02]Quantum Machine Learning** [pdf](papers/[02]Quantum Machine Learning.pdf)
